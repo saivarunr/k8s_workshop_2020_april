@@ -1,0 +1,2 @@
+FROM saivarunr/my-flask-application:v1
+ADD index.py index.py
